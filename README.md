@@ -48,15 +48,18 @@ git clone https://github.com/zhangch369/sop-writer.git ~/.codex/skills/sop-write
 
 > 用 sop-writer 根据我的经历和目标项目生成 SOP 提纲，先列出缺失信息，再逐段起草。
 
-## 内容来源
+## 参考来源
 
-本技能主要参考 Chris Blattman 的文章：
+本技能结合以下两项写作指导，整理为可重复使用的中文工作流程：
 
-**[PhD applicants: Writing your statement of purpose](https://chrisblattman.com/blog/2022/01/11/phd-applicants-writing-your-statement-of-purpose/)** — Chris Blattman，2022 年 1 月 11 日。
+| 来源 | 对应内容 |
+| --- | --- |
+| Chris Blattman：[PhD applicants: Writing your statement of purpose](https://chrisblattman.com/blog/2022/01/11/phd-applicants-writing-your-statement-of-purpose/)（2022 年 1 月 11 日） | 具体展开研究想法，提高信息密度，减少无关叙述 |
+| UC San Diego 经济系：[Writing Personal Statements](https://economics.ucsd.edu/undergraduate-program/resources/how-to-prepare-for-a-phd-in-econ/prep-your-application/writing-personal-statements.html) | 写清研究与课程经历中的实际工作、方法选择、问题解决过程和数学背景；清晰表达潜在研究兴趣，并寻求导师反馈 |
 
-初版于 2026 年 2 月通过与 Claude Code 协作整理，将写作建议转化为可重复使用的中文工作流程，随后补充了经济学博士申请中关于研究经历、方法训练与潜在研究兴趣的指导。补充材料的原始网页来源尚未确认，因此不作具体机构归属。
+初版于 2026 年 2 月通过与 Claude Code 协作整理。全篇优化、分段修改、从零起草等工作模式，以及中文示例和检查清单，包含 AI 辅助组织与扩展，不应全部视为参考来源的原话。
 
-本项目是独立整理的技能，不是原作者或任何大学发布、认可的官方工具。中文表述、工作模式、修改示例和检查清单包含 AI 辅助整理与扩展，不能全部归为原作者的观点或原话。更多信息见 [SOURCES.md](SOURCES.md)。
+本项目是独立整理的技能，并非上述作者或机构发布、认可的官方工具。详细来源及整理说明见 [SOURCES.md](SOURCES.md)。
 
 ## 使用原则
 

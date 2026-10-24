@@ -1,18 +1,36 @@
-# 来源与整理说明
+# 参考来源与整理说明
 
-## 主要参考
+## 1. Chris Blattman：SOP 写作建议
 
-Chris Blattman, “PhD applicants: Writing your statement of purpose”, 2022-01-11.
+- **作者**：Chris Blattman
+- **标题**：PhD applicants: Writing your statement of purpose
+- **发布日期**：2022 年 1 月 11 日
+- **原文**：[阅读文章](https://chrisblattman.com/blog/2022/01/11/phd-applicants-writing-your-statement-of-purpose/)
 
-https://chrisblattman.com/blog/2022/01/11/phd-applicants-writing-your-statement-of-purpose/
+该文章是技能初版的主要参考，用于形成具体展开研究想法、提高信息密度、减少无关叙述的写作方向。整理时未纳入编辑器选择建议。
 
-本技能是基于写作建议整理的中文工作流程，并非作者发布或认可的官方 skill。示例、结构和具体操作规则包含 AI 辅助整理内容，不能全部视为原作者的观点或原话。
+## 2. UC San Diego 经济系：个人陈述指导
 
-## 制作过程
+- **发布机构**：University of California San Diego，Department of Economics
+- **标题**：Writing Personal Statements
+- **栏目**：How to Prepare for a PhD in Economics → Prepare Your Application
+- **原文**：[阅读指导](https://economics.ucsd.edu/undergraduate-program/resources/how-to-prepare-for-a-phd-in-econ/prep-your-application/writing-personal-statements.html)
+- **核对日期**：2026 年 10 月 24 日；页面未标明发布日期
 
-- 2026-02-09：根据上述文章整理初版，排除编辑器选择建议。
-- 同日：按使用者要求，明确“关键处丰富内容、优化表达，不重要处删减”的工作方式。
-- 同日：补充研究兴趣、资格、职业目标、具体研究贡献、数学背景和导师审阅等申请指导。
-- 2026-10-24：整理公开仓库，补充安装、使用和来源说明；保留原有 SKILL.md。
+2026 年 2 月 9 日用于补充技能的英文材料，与该官方页面的五条指导一致。对应技能中的“补充指导原则”，包括：
 
-补充指导的原始网页来源未在现有记录中确认，因此不作具体机构归属。仓库不包含参考文章全文、私人聊天记录或个人申请文书。
+- 清晰描述研究兴趣、资格和现实的职业目标，尽快进入具体内容。
+- 具体说明研究与课程经历中的实际工作、分析方法和解决问题的过程。
+- 说明数学与方法训练如何支持具体研究任务。
+- 潜在研究题目不必完全确定，但应展示讨论经济学研究项目的能力。
+- 可请导师或推荐人审阅个人陈述。
+
+文本匹配确认了可核实的公开来源，但不能仅凭文字确定当时是否直接从官网复制，或经由转载获取。
+
+## 整理与改编范围
+
+本技能于 2026 年 2 月通过与 Claude Code 协作整理，2026 年 10 月整理为公开仓库。中文表述、三种工作模式、修改示例和质量检查清单包含 AI 辅助整理与扩展。
+
+篇幅比例、阅读难度和示例中的具体研究设计属于技能层面的操作参考，不能全部归为上述来源的原话，也不是统一的招生要求。实际使用应以目标项目的题目和要求为准。
+
+本项目不是上述作者或机构发布、认可的官方技能。仓库不包含参考网页全文、私人聊天记录或个人申请文书。

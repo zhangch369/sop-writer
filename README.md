@@ -61,6 +61,12 @@ git clone https://github.com/zhangch369/sop-writer.git ~/.codex/skills/sop-write
 
 本项目是独立整理的技能，并非上述作者或机构发布、认可的官方工具。详细来源及整理说明见 [SOURCES.md](SOURCES.md)。
 
+## 延伸资源
+
+[Economics Mentoring Program — PhD Application Resources](https://www.economicsmentoringprogram.com/phd-application-resources) 汇集经济学博士申请建议、SOP 示例及其他申请资源。其 Statement of Purpose 栏目也收录了上述 Blattman 文章。
+
+该页面提醒：示例并非统一的优秀标准，其结构也不一定适合每位申请人。可用于比较表达方式与组织思路，具体写作仍应围绕个人经历和目标项目要求。
+
 ## 使用原则
 
 - 以目标项目的实际题目、篇幅和申请要求为准。

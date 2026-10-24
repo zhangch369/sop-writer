@@ -27,6 +27,17 @@
 
 文本匹配确认了可核实的公开来源，但不能仅凭文字确定当时是否直接从官网复制，或经由转载获取。
 
+## 3. 延伸资源：Economics Mentoring Program
+
+- **机构**：Economics Mentoring Program
+- **页面**：PhD Application Resources（页面标题：Application resources）
+- **链接**：[浏览申请资源](https://www.economicsmentoringprogram.com/phd-application-resources)
+- **核对日期**：2026 年 10 月 24 日
+
+该页面汇集经济学研究生申请资源。Statement of Purpose 栏目链接了上述 Blattman 文章，并提供六份 SOP 示例。页面明确提醒，示例不一定是优秀范本，其结构也不一定是正确或通用的结构，每位申请人的背景各不相同。
+
+该链接于公开仓库整理阶段补充，作为延伸阅读与示例资源入口；不据此认定它是技能初版的直接来源。仓库仅提供链接与说明，不转载示例文书。
+
 ## 整理与改编范围
 
 本技能于 2026 年 2 月通过与 Claude Code 协作整理，2026 年 10 月整理为公开仓库。中文表述、三种工作模式、修改示例和质量检查清单包含 AI 辅助整理与扩展。

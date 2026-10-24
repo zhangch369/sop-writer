@@ -1,6 +1,6 @@
 # SOP Writer
 
-面向博士申请的 Statement of Purpose（SOP）写作技能，侧重经济学研究经历与研究计划的清晰表达，可用于 Claude Code 和 Codex。
+SOP Writer 是一个面向博士申请的 Statement of Purpose（SOP）写作技能，可用于 Claude Code 和 Codex。它尤其适合经济学申请，帮助申请人把研究经历、个人贡献和未来研究计划写得具体、清晰。
 
 ## 核心功能
 
@@ -10,11 +10,11 @@
 | 分段修改 | 需要改进特定段落 | 具体化问题、方法、个人贡献与项目匹配 |
 | 从零起草 | 已有经历与研究想法 | 梳理素材、建立提纲、逐段形成初稿 |
 
-核心原则：在重要内容上增加具体信息，在无关内容上减少篇幅。重点呈现研究问题、方法选择、个人贡献和研究判断，减少空泛热情、重复履历与填充句。
+修改围绕一个原则展开：把篇幅留给最能体现研究能力的内容。对于研究问题、方法选择和个人贡献，补充必要的细节；对于空泛的热情表述、重复的履历介绍和填充句，则适当压缩或删去。
 
 ## 安装
 
-将仓库克隆到所用工具的个人技能目录，选择以下一种方式：
+根据使用的工具，将仓库克隆到对应的个人技能目录：
 
 **Claude Code**
 
@@ -28,13 +28,13 @@ git clone https://github.com/zhangch369/sop-writer.git ~/.claude/skills/sop-writ
 git clone https://github.com/zhangch369/sop-writer.git ~/.codex/skills/sop-writer
 ```
 
-如果目标目录已存在，请先检查已有版本。安装后重新打开会话，以便工具发现技能。
+如果目标目录已存在，请先检查其中的版本，避免覆盖已有修改。安装完成后，重新打开会话以加载技能。
 
 ## 使用方式
 
-在 Claude Code 中调用 `/sop-writer`，或在支持技能的助手中明确指定使用 `sop-writer`。
+在 Claude Code 中可以通过 `/sop-writer` 调用；在 Codex 中，可以直接要求助手使用 `sop-writer` 修改文书。
 
-为了获得有针对性的修改，请提供目标项目的题目与字数限制、真实研究经历、个人贡献，以及已有草稿或研究想法。
+开始前，请提供目标项目的文书题目和字数限制，以及已有草稿或研究想法。描述研究经历时，尽量说明自己承担的工作、使用的方法和解决的问题，这些信息能帮助技能提出更有针对性的修改。
 
 **全篇优化**
 
@@ -50,22 +50,22 @@ git clone https://github.com/zhangch369/sop-writer.git ~/.codex/skills/sop-write
 
 ## 参考来源
 
-本技能结合以下两项写作指导，整理为可重复使用的中文工作流程：
+本技能以以下写作指导为基础，将其中的建议整理为可重复使用的中文工作流程：
 
 | 来源 | 对应内容 |
 | --- | --- |
 | Chris Blattman：[PhD applicants: Writing your statement of purpose](https://chrisblattman.com/blog/2022/01/11/phd-applicants-writing-your-statement-of-purpose/)（2022 年 1 月 11 日） | 具体展开研究想法，提高信息密度，减少无关叙述 |
 | UC San Diego 经济系：[Writing Personal Statements](https://economics.ucsd.edu/undergraduate-program/resources/how-to-prepare-for-a-phd-in-econ/prep-your-application/writing-personal-statements.html) | 写清研究与课程经历中的实际工作、方法选择、问题解决过程和数学背景；清晰表达潜在研究兴趣，并寻求导师反馈 |
 
-初版于 2026 年 2 月通过与 Claude Code 协作整理。全篇优化、分段修改、从零起草等工作模式，以及中文示例和检查清单，包含 AI 辅助组织与扩展，不应全部视为参考来源的原话。
+技能初版于 2026 年 2 月通过与 Claude Code 协作完成。在参考建议的基础上，进一步整理了三种工作模式、中文修改示例和检查清单。这些内容包含 AI 辅助组织与扩展，不应全部视为原作者的表述。
 
-本项目是独立整理的技能，并非上述作者或机构发布、认可的官方工具。详细来源及整理说明见 [SOURCES.md](SOURCES.md)。
+本项目独立整理，与上述作者或机构不存在官方关联。各项指导的来源及改编范围见 [SOURCES.md](SOURCES.md)。
 
 ## 延伸资源
 
 [Economics Mentoring Program — PhD Application Resources](https://www.economicsmentoringprogram.com/phd-application-resources) 汇集经济学博士申请建议、SOP 示例及其他申请资源。其 Statement of Purpose 栏目也收录了上述 Blattman 文章。
 
-该页面提醒：示例并非统一的优秀标准，其结构也不一定适合每位申请人。可用于比较表达方式与组织思路，具体写作仍应围绕个人经历和目标项目要求。
+这些示例可以帮助读者比较不同的表达方式和组织思路。页面也提醒，示例的质量与结构不应被视为统一标准；写作时仍需围绕自己的经历和目标项目的要求作出选择。
 
 ## 使用原则
 
@@ -80,3 +80,14 @@ git clone https://github.com/zhangch369/sop-writer.git ~/.codex/skills/sop-write
 | --- | --- |
 | [SKILL.md](SKILL.md) | 技能指令、工作模式、修改示例与检查清单 |
 | [SOURCES.md](SOURCES.md) | 参考来源与整理说明 |
+
+## 编辑记录
+
+| 日期 | 修改内容 |
+| --- | --- |
+| 2026-10-24 | 整理公开版本，补充安装、使用与来源说明 |
+| 2026-10-24 | 补充 UC San Diego 个人陈述指导的来源说明 |
+| 2026-10-24 | 加入 Economics Mentoring Program 申请资源 |
+| 2026-10-24 | 润色 README，改善段落衔接与使用说明，保留参考来源 |
+
+后续修改通过 Git 提交记录保留，便于查看版本差异。

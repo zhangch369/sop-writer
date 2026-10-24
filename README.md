@@ -1,5 +1,7 @@
 # SOP Writer
 
+[中文](README.md) | [English](README.en.md)
+
 SOP Writer 是一个面向博士申请的 Statement of Purpose（SOP）写作技能，可用于 Claude Code 和 Codex。它尤其适合经济学申请，帮助申请人把研究经历、个人贡献和未来研究计划写得具体、清晰。
 
 ## 核心功能
@@ -78,6 +80,7 @@ git clone https://github.com/zhangch369/sop-writer.git ~/.codex/skills/sop-write
 
 | 文件 | 内容 |
 | --- | --- |
+| [README.en.md](README.en.md) | 英文使用说明 |
 | [SKILL.md](SKILL.md) | 技能指令、工作模式、修改示例与检查清单 |
 | [SOURCES.md](SOURCES.md) | 参考来源与整理说明 |
 
@@ -89,5 +92,6 @@ git clone https://github.com/zhangch369/sop-writer.git ~/.codex/skills/sop-write
 | 2026-10-24 | 补充 UC San Diego 个人陈述指导的来源说明 |
 | 2026-10-24 | 加入 Economics Mentoring Program 申请资源 |
 | 2026-10-24 | 润色 README，改善段落衔接与使用说明，保留参考来源 |
+| 2026-10-24 | 新增英文 README，加入中英文切换链接 |
 
 后续修改通过 Git 提交记录保留，便于查看版本差异。
